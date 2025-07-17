@@ -1,0 +1,20 @@
+{
+  "name": "srt-subtitle-search",
+  "version": "1.0.0",
+  "description": "Web application for searching subtitles using Xunlei API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "build": "wrangler build"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20231025.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.15.0"
+  },
+  "keywords": ["subtitle", "search", "cloudflare", "worker"],
+  "author": "",
+  "license": "MIT"
+}

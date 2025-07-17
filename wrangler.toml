@@ -1,0 +1,9 @@
+name = "srt-subtitle-search"
+main = "index.js"
+compatibility_date = "2023-10-25"
+
+[env.production]
+name = "srt-subtitle-search"
+
+[env.staging]
+name = "srt-subtitle-search-staging"
