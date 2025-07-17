@@ -1,4 +1,4 @@
-name = "srt-subtitle-search"
+name = "srtquery"
 main = "index.js"
 compatibility_date = "2023-10-25"
 
