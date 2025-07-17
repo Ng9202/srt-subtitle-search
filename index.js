@@ -63,6 +63,8 @@ async function handleIndex() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>字幕搜索工具</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1361176748968047"
+     crossorigin="anonymous"></script>
     <style>
         * {
             margin: 0;
